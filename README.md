@@ -1,6 +1,5 @@
 Escape The Maze - O Jogo
 ===
-
 ![Screenshot](./READMEfiles/gameCover.jpg)
 
 
@@ -67,6 +66,7 @@ Créditos
 * [Unity Engine](https://unity.com/en)
 * [Dungeon Generator](github.com/silverlybee/dungeon-generator) - SilverlyBee
 * [Generic Pathfinder in Unity using C#](github.com/shamim-akhtar/tutorial-pathfinding/tree/part-2-8-puzzle) - Shamim Akhtar
+
 
 Licença
 ---
