@@ -1,0 +1,5 @@
+# Be VERY CAREFUL with other .gitattributes lines that are added here 
+# since Git LFS will try to track them too
+
+# Git LFS files to be tracked
+*.resS filter=lfs diff=lfs merge=lfs -text
