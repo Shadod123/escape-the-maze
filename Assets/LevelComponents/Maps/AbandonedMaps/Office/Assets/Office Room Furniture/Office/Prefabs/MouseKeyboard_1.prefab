@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000010963814808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000014059896014}
+  m_Layer: 0
+  m_Name: MouseKeyboard_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4000014059896014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010963814808}
+  m_LocalRotation: {x: -0, y: 0.6724357, z: -0, w: 0.7401556}
+  m_LocalPosition: {x: 2.5869, y: 2.2613, z: 2.1807}
+  m_LocalScale: {x: 0.19708897, y: 0.19708894, z: 0.19708894}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4000010500948748}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 84.666, z: 0}
+--- !u!1001 &3093432715909315434
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4000014059896014}
+    m_Modifications:
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.3240023
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.13437594
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.6162603
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.83148086
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.38272166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.19463962
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.35253263
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -50.686
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 4.874
+      objectReference: {fileID: 0}
+    - target: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 43.642
+      objectReference: {fileID: 0}
+    - target: {fileID: 3093296930285485908, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+      propertyPath: m_Name
+      value: Mouse
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+--- !u!4 &4000010500948748 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3089506003488176230, guid: e37d7c6ee95d6804fbb88d2a8b6681eb, type: 3}
+  m_PrefabInstance: {fileID: 3093432715909315434}
+  m_PrefabAsset: {fileID: 0}

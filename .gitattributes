@@ -1,5 +1,2 @@
-# Be VERY CAREFUL with other kinds of .gitattributes lines that are added here,
-# since Git LFS might try to track them too
-
-# Git LFS files to be tracked
-*.resS filter=lfs diff=lfs merge=lfs -text
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
