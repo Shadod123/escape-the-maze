@@ -17,8 +17,6 @@ Se você quiser contribuir para o desenvolvimento do jogo, siga as instruções 
 4. Faça um push das suas alterações para o seu repositório usando o comando 'git push origin minha-nova-feature'
 5. Crie um novo Pull Request no repositório original
 
-**Obs.:** Sempre que possível, remova a pasta Library do seu projeto antes de fazer Pull Requests, visto que ela ocupa um espaço considerável de armazenamento (corresponde a cerca de 30% do tamanho em disco projeto) e não é necessária para o correto funcionamento deste. Ela será gerada novamente no computador do usuário quando este tentar abrir o projeto em seu Unity Editor.
-
 
 Créditos
 ---
