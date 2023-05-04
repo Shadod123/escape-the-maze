@@ -6,7 +6,7 @@ Escape The Maze - O Jogo
 
 Sobre
 ---
-Escape The Maze é um jogo de exploração de labirintos temáticos feito na Unity. As fases desse jogo consistem em labirintos (mazes) gerados proceduralmente por meio de um tipo de algoritmo de Grafos de busca em profundidade (backtracking). Cada labirinto conta com um coletável em sua saída que consiste em uma imagem deste embaralhada no formato 8-puzzle, também conhecido como slider puzzle. Tal figura é desembaralhada automaticamente através de um algoritmo de busca de Inteligência Artificial chamado A* (A estrela).
+Escape The Maze é um jogo de exploração de labirintos temáticos feito na Unity. As fases desse jogo consistem em labirintos (mazes) gerados proceduralmente por meio de um tipo de algoritmo de Grafos de busca em profundidade (backtracking). Cada labirinto conta com um coletável em sua saída que representa uma imagem deste embaralhada no formato 8-puzzle, também conhecido como slider puzzle. Tal figura é desembaralhada automaticamente através de um algoritmo de busca de Inteligência Artificial chamado A* (A estrela).
 
 
 Como Jogar
