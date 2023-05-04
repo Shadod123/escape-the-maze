@@ -13,19 +13,19 @@ Como Jogar
 ---
 ### Controles
 
-**WASD** - Movimentação
+**WASD** - Movimentação Básica 
 
-**Mouse** - Controle da câmera em primeira pessoa
+**Mouse** - Controle da Câmera em Primeira Pessoa
 
-**Spacebar** - Pulo
+**Spacebar** - Movimento de Pulo
 
 **Esc** - Menu de Pausa (pressione novamente para despausar)
 
-### Explore labirintos temáticos!
+### <ins>Explore labirintos temáticos!</ins>
 
 ![Screenshot](./READMEfiles/backroomsInspiredLevelExploration.gif)
 
-### Encontre o coletável ao final de fase!
+### <ins>Encontre o coletável ao final de cada fase!</ins>
 
 ![Screenshot](./READMEfiles/spaceStationExitSliderPuzzle.gif)
 
