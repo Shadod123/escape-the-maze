@@ -42,17 +42,6 @@ Guia do Repositório
 **[unity-project](https://github.com/Shadod123/escape-the-maze/tree/unity-project)** - contém o projeto da Unity do jogo (branch desejada se o intuito é desenvolver updates para o jogo)
 
 
-Como Contribuir
----
-Se você quiser contribuir para o desenvolvimento do jogo, siga as instruções abaixo:
-
-1. Faça um fork deste repositório
-2. Crie uma nova branch para a sua contribuição usando o comando 'git checkout -b minha-nova-feature'
-3. Faça as suas alterações e faça um commit com uma mensagem descritiva do que foi feito usando o comando 'git commit -m "Minha nova feature"'
-4. Faça um push das suas alterações para o seu repositório usando o comando 'git push origin minha-nova-feature'
-5. Crie um novo Pull Request no repositório original
-
-
 Inspirações
 ---
 * [The Backrooms](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
