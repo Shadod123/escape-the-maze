@@ -21,11 +21,9 @@ Como Jogar
 **Esc** - Menu de Pausa (pressione novamente para despausar)
 
 ### _Explore labirintos temáticos!_
-
 ![Screenshot](./READMEfiles/backroomsInspiredLevelExploration.gif)
 
 ### _Encontre o coletável ao final de cada fase!_
-
 ![Screenshot](./READMEfiles/spaceStationExitSliderPuzzle.gif)
 
 
