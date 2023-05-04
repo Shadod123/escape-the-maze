@@ -1,7 +1,7 @@
 Escape The Maze
 ===
 
-![Screenshot](./img/screenshot.png)
+![Screenshot](./READMEfiles/gameCover.jpg)
 
 Sobre
 ---
@@ -17,7 +17,13 @@ Como Jogar
 
 **Esc** - Menu de Pausa (pressione novamente para despausar)
 
-Encontre o fim do labirinto!
+## Explore labirintos temáticos!
+
+![Screenshot](./READMEfiles/backroomsInspiredLevelExploration.gif)
+
+## Encontre a saída e interaja com o coletável!
+
+![Screenshot](./READMEfiles/spaceStationExitSliderPuzzle.gif)
 
 Preview
 ---
