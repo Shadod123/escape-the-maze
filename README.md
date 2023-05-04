@@ -1,4 +1,4 @@
-Escape The Maze
+Escape The Maze - O Jogo
 ===
 
 ![Screenshot](./READMEfiles/gameCover.jpg)
