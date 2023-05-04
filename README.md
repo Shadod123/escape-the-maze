@@ -11,7 +11,7 @@ Sobre
 
 Como Jogar
 ---
-### Controles
+### _Controles_
 
 **WASD** - Movimentação Básica 
 
@@ -21,11 +21,11 @@ Como Jogar
 
 **Esc** - Menu de Pausa (pressione novamente para despausar)
 
-### <ins>Explore labirintos temáticos!</ins>
+### _Explore labirintos temáticos!_
 
 ![Screenshot](./READMEfiles/backroomsInspiredLevelExploration.gif)
 
-### <ins>Encontre o coletável ao final de cada fase!</ins>
+### _Encontre o coletável ao final de cada fase!_
 
 ![Screenshot](./READMEfiles/spaceStationExitSliderPuzzle.gif)
 
